@@ -12,6 +12,7 @@ A **Computer Science Engineer** specializing in **Full Stack Web Development** â
 [![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
 [![Scipy](https://img.shields.io/badge/Scipy-green?style=for-the-badge&logo=scipy&logoColor=white&labelColor=101010)]()
 [![Sympy](https://img.shields.io/badge/Sympy-green?style=for-the-badge&logo=sympy&logoColor=white&labelColor=101010)]()
+[![Pulp](https://img.shields.io/badge/Pulp-blue?style=for-the-badge&logo=pulp&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
 [![c++](https://img.shields.io/badge/C++-gray?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
