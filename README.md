@@ -2,7 +2,7 @@
 
 A **Computer Science Engineer** specializing in **Full Stack Web Development** ❤️ passionate about **Artificial Intelligence, 🤖 Machine Learning, Data Science, Linux, and 💡 Entrepreneurship**.  
 
-## Lenguajes, Frameworks y Librerias:
+## Languages, Frameworks and Libraries:
 [![PHP](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -18,14 +18,14 @@ A **Computer Science Engineer** specializing in **Full Stack Web Development** �
 [![c](https://img.shields.io/badge/C-gray?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
-## Tecnologias:
+## Technologies:
 [![Linux](https://img.shields.io/badge/Linux-gree?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Mysql](https://img.shields.io/badge/MySql-orange?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 
-Y alguna más...
+Y and More...
 
-## Encuentrame:
+## Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-israeldavidvm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/israeldavidvm/)
 [![Twitter](https://img.shields.io/badge/Twitter-@israeldavidvm-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/israeldavidvm)
 [![Facebook](https://img.shields.io/badge/Facebook-israeldavidvm-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/israeldavidvm)
