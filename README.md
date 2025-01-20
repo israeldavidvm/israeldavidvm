@@ -1,6 +1,6 @@
 # 👋Hi, I am Israel David
 
-Computer Engineer specialized in Full Stack Web Development and 🤖 Artificial Intelligence, who has been entrepreneurship and app creation since 2014. ❤️ Lover of Mathematics, Machine Learning Engineering, Data Science, Linux and 💡Entrepreneurship.
+Computer Engineer specialized in 🌐 Full Stack Web Development and 🤖 Artificial Intelligence, who has been entrepreneurship💡 and app creation since 2014.❤️ Lover of God 🕊 Mathematics, Machine Learning Engineering, Data Science, Linux and 💡Entrepreneurship.
 
 ## Compotencias, Conocimientos Y Habilidades Duras
 ### Ingenieria Del Software:
